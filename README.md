@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 1.Run the data preprocessing script:
 ```bash
-python Initial.py
+python Initialpoint.py
 ```
 2.Run the model evaluation script:
 ```bash
