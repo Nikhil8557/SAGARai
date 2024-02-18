@@ -61,6 +61,12 @@ python SAGAR.py
       4.Submit a pull request.
 
 Please ensure that your code is well-documented and follows the PEP 8 style guide.
+- Check out the website [section on contributing](https://dioxuslabs.com/learn/0.4/contributing).
+- Report issues on our [issue tracker](https://github.com/Nikhil8557/SAGARai/issues).
+
+<a href="https://github.com/Nikhil8557/SAGARai/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Nikhil8557/SAGARai&max=30&columns=10" />
+</a>
 
 **License:**
 
